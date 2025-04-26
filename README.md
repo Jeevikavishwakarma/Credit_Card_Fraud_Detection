@@ -28,7 +28,9 @@ jupyter notebook Credit_card_fraud.ipynb
 ## Project Structure
 Credit_Card_Fraud_Detection/
 │
+
 ├── Credit_card_fraud.ipynb   
+
 ├── README.md 
 
 ## Features and Techniques Used
