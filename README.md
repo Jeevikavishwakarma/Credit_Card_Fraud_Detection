@@ -26,7 +26,8 @@ Make sure you have the following Python libraries installed:
 jupyter notebook Credit_card_fraud.ipynb
 
 ## Project Structure
-Credit_Card_Fraud_Detection/
+Credit_Card_Fraud_Detection
+
 │
 
 ├── Credit_card_fraud.ipynb   
